@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cricket Matches</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
