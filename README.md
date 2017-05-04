@@ -3,3 +3,4 @@
 
 If you want to use this code, download this repository. 
 Open Android Studio and click on Import project and select the repository downloaded on your computer.
+<img src="https://raw.githubusercontent.com/sandeepnutalapati/CricketMatches/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
